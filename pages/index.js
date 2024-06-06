@@ -17,7 +17,7 @@ export default function Home() {
 
       <main className="container py-5">
         <section id="hero" className="text-center">
-          <h1 className="display-4">Hi, I'm Safnas</h1>
+          <h1 className="display-4">Hi, I&#39;m Safnas</h1>
           <p className="lead">Full Stack Developer specializing in Angular, Node, Java, and Spring Boot</p>
         </section>
 
