@@ -18,15 +18,15 @@ export default function Home() {
       <main className="container py-5">
         <section id="hero" className="text-center">
           <h1 className="display-4">Hi, I&#39;m Safnas</h1>
-          <p className="lead">Full Stack Developer specializing in Angular, Node, Java, and Spring Boot</p>
+          <p className="lead">Full Stack Developer specializing in Angular, React, Node, Java, and Spring Boot</p>
         </section>
 
         <Projects />
 
         <section id="contact" className="mt-5">
           <h2 className="mb-4">Contact Me</h2>
-          <p>Email: youremail@example.com</p>
-          <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" className="text-decoration-none">yourprofile</a></p>
+          <p>Email: iamsafnas@gmail.com</p>
+          <p>LinkedIn: <a href="https://www.linkedin.com/in/safnas/" className="text-decoration-none">safnas</a></p>
         </section>
       </main>
 

@@ -4,18 +4,25 @@ import Project from './Project';
 export default function Projects() {
     const projects = [
         {
-            title: 'E-commerce Website',
-            location: 'New York, USA',
-            duration: '6 months',
-            tech: 'React, Redux, Node.js, MongoDB',
-            summary: 'Built a full-stack e-commerce website with user authentication, product management, and payment integration.',
+            title: 'Employment Insurance',
+            location: 'Missouri, USA',
+            duration: '2 years',
+            tech: 'Angular, Spring boot, Redis, IBM DB2',
+            summary: 'Migrate legacy Monolithic application to Microservices.',
         },
         {
-            title: 'Social Media App',
-            location: 'San Francisco, USA',
-            duration: '4 months',
-            tech: 'Angular, Firebase',
-            summary: 'Developed a social media app with real-time messaging and post sharing functionality.',
+            title: 'E-commerce Website',
+            location: 'Washington DC, USA',
+            duration: '2 years',
+            tech: 'Angular, Node.js, Redis',
+            summary: 'Built authentication service for a telecom e-commerce website.',
+        },
+        {
+            title: 'E-commerce Website',
+            location: 'Bengaluru, India',
+            duration: '6 years',
+            tech: 'Java, Spring, Hibernate',
+            summary: 'Developed an shop website for a telecom client to purchase phone, plans etc.',
         },
         // Add more projects as needed
     ];
